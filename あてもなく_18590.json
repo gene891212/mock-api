@@ -1,0 +1,62 @@
+{
+    "lyrics": [
+        "大切な言葉が今 空を舞ってゆく",
+        "ひとりきりだった夜も 数えきれない星々",
+        "今もずっと 目を瞑ってみればすぐそこに",
+        "あてもなく歩き続けた 疲れても歩き続けた",
+        "僕はずっと 祈りの中にいたいだけ",
+        "傷だらけ 泥だらけ 届かない手を伸ばして",
+        "つかみたい夢や希望のかけら 今すぐ",
+        "笑っていて 笑っていて 強くなくていいんだよ",
+        "優しいままの その笑顔が 笑顔があればいいよ",
+        "曇り空も全部吹き飛ばすような",
+        "君だけの笑顔が 力に強さになるんだ",
+        "大切な言葉が今 空を舞ってゆく"
+    ],
+    "lyricsYomi": [
+        "<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>言葉</rb><rt>ことば</rt></ruby>が<ruby><rb>今</rb><rt>いま</rt></ruby> <ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>舞</rb><rt>ま</rt></ruby>ってゆく",
+        "ひとりきりだった<ruby><rb>夜</rb><rt>よる</rt></ruby>も <ruby><rb>数</rb><rt>かぞ</rt></ruby>えきれない<ruby><rb>星々</rb><rt>ほしぼし</rt></ruby>",
+        "<ruby><rb>今</rb><rt>いま</rt></ruby>もずっと <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>瞑</rb><rt>つぶ</rt></ruby>ってみればすぐそこに",
+        "あてもなく<ruby><rb>歩</rb><rt>ある</rt></ruby>き<ruby><rb>続</rb><rt>つづ</rt></ruby>けた <ruby><rb>疲</rb><rt>つか</rt></ruby>れても<ruby><rb>歩</rb><rt>ある</rt></ruby>き<ruby><rb>続</rb><rt>つづ</rt></ruby>けた",
+        "<ruby><rb>僕</rb><rt>ぼく</rt></ruby>はずっと <ruby><rb>祈</rb><rt>いの</rt></ruby>りの<ruby><rb>中</rb><rt>なか</rt></ruby>にいたいだけ",
+        "<ruby><rb>傷</rb><rt>きず</rt></ruby>だらけ <ruby><rb>泥</rb><rt>どろ</rt></ruby>だらけ <ruby><rb>届</rb><rt>とど</rt></ruby>かない<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>伸</rb><rt>の</rt></ruby>ばして",
+        "つかみたい<ruby><rb>夢</rb><rt>ゆめ</rt></ruby>や<ruby><rb>希望</rb><rt>きぼう</rt></ruby>のかけら <ruby><rb>今</rb><rt>いま</rt></ruby>すぐ",
+        "<ruby><rb>笑</rb><rt>わら</rt></ruby>っていて <ruby><rb>笑</rb><rt>わら</rt></ruby>っていて <ruby><rb>強</rb><rt>つよ</rt></ruby>くなくていいんだよ",
+        "<ruby><rb>優</rb><rt>やさ</rt></ruby>しいままの その<ruby><rb>笑顔</rb><rt>えがお</rt></ruby>が <ruby><rb>笑顔</rb><rt>えがお</rt></ruby>があればいいよ",
+        "<ruby><rb>曇</rb><rt>くも</rt></ruby>り<ruby><rb>空</rb><rt>ぞら</rt></ruby>も<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby><ruby><rb>吹</rb><rt>ふ</rt></ruby>き<ruby><rb>飛</rb><rt>と</rt></ruby>ばすような",
+        "<ruby><rb>君</rb><rt>きみ</rt></ruby>だけの<ruby><rb>笑顔</rb><rt>えがお</rt></ruby>が <ruby><rb>力</rb><rt>ちから</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>さになるんだ",
+        "<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>言葉</rb><rt>ことば</rt></ruby>が<ruby><rb>今</rb><rt>いま</rt></ruby> <ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>舞</rb><rt>ま</rt></ruby>ってゆく"
+    ],
+    "name": "あてもなく",
+    "nameTranslateZh": "",
+    "singer": "Aimer",
+    "singerTranslateZh": "",
+    "startTime": [
+        0.5,
+        15.4,
+        21.1,
+        26.9,
+        32.68,
+        38.4,
+        44.0,
+        54.4,
+        60.383,
+        67.55,
+        71.9,
+        78.5
+    ],
+    "endTime": [
+        12.527,
+        21.1,
+        26.9,
+        32.68,
+        38.4,
+        44.0,
+        54.4,
+        60.383,
+        67.55,
+        71.9,
+        78.5,
+        89.564
+    ]
+}
